@@ -1,4 +1,15 @@
 # Whatsapp-chat-analyzer
+### The WhatsApp Chat Analysis project provides a comprehensive platform where users can upload and analyze their WhatsApp conversations, be it individual or group chats.
+
+# Features
+Data Preparation and Cleaning
+Group wise stats
+Member wise stats
+Emoji Stats
+Most used Emogi in the Group Chat
+Word Count
+Number of messages as the time passes.
+
 
 ![image](https://github.com/user-attachments/assets/742ffe60-527c-45dd-a488-df31bb1a021a)
 ![image](https://github.com/user-attachments/assets/688c249c-a04e-4815-8bc3-6a6d557daff7)
