@@ -3,13 +3,18 @@
 
 # Features
 
-.Data Preparation and Cleaning
+Data Preparation and Cleaning
 
 Group wise stats
+
 Member wise stats
+
 Emoji Stats
+
 Most used Emogi in the Group Chat
+
 Word Count
+
 Number of messages as the time passes.
 
 
